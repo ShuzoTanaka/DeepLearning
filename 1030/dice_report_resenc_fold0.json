@@ -1,0 +1,244 @@
+{
+    "foreground_mean": {
+        "Dice": 0.5307071172940651,
+        "FN": 1544.125,
+        "FP": 603.5625,
+        "IoU": 0.4303181756786797,
+        "TN": 3403327.25,
+        "TP": 2397.0625,
+        "n_pred": 3000.625,
+        "n_ref": 3941.1875
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.7098221843497632,
+            "FN": 2167.25,
+            "FP": 832.625,
+            "IoU": 0.5578068189726129,
+            "TN": 3401021.875,
+            "TP": 3850.25,
+            "n_pred": 4682.875,
+            "n_ref": 6017.5
+        },
+        "2": {
+            "Dice": 0.3515920502383669,
+            "FN": 921.0,
+            "FP": 374.5,
+            "IoU": 0.3028295323847465,
+            "TN": 3405632.625,
+            "TP": 943.875,
+            "n_pred": 1318.375,
+            "n_ref": 1864.875
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7904,
+                    "FN": 1390,
+                    "FP": 1099,
+                    "IoU": 0.6534391534391535,
+                    "TN": 3400690,
+                    "TP": 4693,
+                    "n_pred": 5792,
+                    "n_ref": 6083
+                },
+                "2": {
+                    "Dice": 0.9126460132046724,
+                    "FN": 531,
+                    "FP": 157,
+                    "IoU": 0.8393274170948155,
+                    "TN": 3403590,
+                    "TP": 3594,
+                    "n_pred": 3751,
+                    "n_ref": 4125
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case003.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case003.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7695664030542678,
+                    "FN": 527,
+                    "FP": 1163,
+                    "IoU": 0.6254432624113475,
+                    "TN": 3403360,
+                    "TP": 2822,
+                    "n_pred": 3985,
+                    "n_ref": 3349
+                },
+                "2": {
+                    "Dice": 0.8840713813615334,
+                    "FN": 701,
+                    "FP": 176,
+                    "IoU": 0.7922293295427624,
+                    "TN": 3403651,
+                    "TP": 3344,
+                    "n_pred": 3520,
+                    "n_ref": 4045
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case006.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8170880292415473,
+                    "FN": 1313,
+                    "FP": 1089,
+                    "IoU": 0.6907428865713918,
+                    "TN": 3400105,
+                    "TP": 5365,
+                    "n_pred": 6454,
+                    "n_ref": 6678
+                },
+                "2": {
+                    "Dice": 0.3128349068639959,
+                    "FN": 2670,
+                    "FP": 23,
+                    "IoU": 0.18542044767090138,
+                    "TN": 3404566,
+                    "TP": 613,
+                    "n_pred": 636,
+                    "n_ref": 3283
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case010.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6993006993006993,
+                    "FN": 3141,
+                    "FP": 643,
+                    "IoU": 0.5376344086021505,
+                    "TN": 3399688,
+                    "TP": 4400,
+                    "n_pred": 5043,
+                    "n_ref": 7541
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 3466,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 3404406,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3466
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case011.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6553454910490213,
+                    "FN": 3629,
+                    "FP": 491,
+                    "IoU": 0.48737090954336193,
+                    "TN": 3399835,
+                    "TP": 3917,
+                    "n_pred": 4408,
+                    "n_ref": 7546
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1310,
+                    "IoU": 0.0,
+                    "TN": 3406562,
+                    "TP": 0,
+                    "n_pred": 1310,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case036.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case036.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6794343434343434,
+                    "FN": 3203,
+                    "FP": 764,
+                    "IoU": 0.514502508872843,
+                    "TN": 3399701,
+                    "TP": 4204,
+                    "n_pred": 4968,
+                    "n_ref": 7407
+                },
+                "2": {
+                    "Dice": 0,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": 0,
+                    "TN": 3407872,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case037.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case037.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7610780256384375,
+                    "FN": 1217,
+                    "FP": 1150,
+                    "IoU": 0.6143066644940525,
+                    "TN": 3401735,
+                    "TP": 3770,
+                    "n_pred": 4920,
+                    "n_ref": 4987
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1330,
+                    "IoU": 0.0,
+                    "TN": 3406542,
+                    "TP": 0,
+                    "n_pred": 1330,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case039.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case039.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5063644830797889,
+                    "FN": 2918,
+                    "FP": 262,
+                    "IoU": 0.3390147578466015,
+                    "TN": 3403061,
+                    "TP": 1631,
+                    "n_pred": 1893,
+                    "n_ref": 4549
+                },
+                "2": {
+                    "Dice": 0,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": 0,
+                    "TN": 3407872,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\pred_out_resenc_fold0\\case040.nii.gz",
+            "reference_file": "C:\\Users\\orilab\\Desktop\\masumoto\\1030\\nnUNet_raw\\Dataset001_lumber\\labelsTs\\case040.nii.gz"
+        }
+    ]
+}

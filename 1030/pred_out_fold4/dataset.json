@@ -1,0 +1,18 @@
+{
+    "name": "lumber",
+    "description": "",
+    "reference": "",
+    "licence": "",
+    "release": "1.0",
+    "tensorImageSize": "4D",
+    "channel_names": {
+        "0": "MRI_T2"
+    },
+    "labels": {
+        "background": 0,
+        "class1": 1,
+        "class2": 2
+    },
+    "numTraining": 31,
+    "file_ending": ".nii.gz"
+}

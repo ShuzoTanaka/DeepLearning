@@ -1,0 +1,10 @@
+Fold 1 case-wise Dice (nerve root only, multitask model)
+case030.nii: 0.7458
+case025.nii: 0.4982
+case032.nii: 0.5760
+case006.nii: 0.6452
+case005.nii: 0.4500
+case027.nii: 0.7103
+case040.nii: 0.3737
+case008.nii: 0.7707
+Fold 1 mean Dice: 0.5962

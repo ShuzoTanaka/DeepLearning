@@ -1,0 +1,56 @@
+# 仮想環境
+.2denv/
+.3denv/
+.smpenv/
+.majorenv/
+.tractographyenv/
+.tractenv3/
+.voxelenv/
+.vectorenv/
+.nnenv/
+
+# モデル重み・チェックポイント
+*.pth
+*.ckpt
+*.pkl
+*.b2nd
+
+# 学習ログ
+logs/
+lightning_logs/
+runs/
+
+# MRIデータ
+*.nii
+*.nii.gz
+*.dcm
+*.bval
+*.bvec
+*.mif
+*.tck
+*.trk
+*.ecclog
+*.mat
+*.npy
+*.zip
+*.mov
+*.png
+
+# データフォルダ
+1002/
+1030/nnUNet/
+1030/nnUNet_preprocessed/
+1030/nnUNet_results/
+1030/temp/
+1030/.nnenv/
+
+# ツール・実行ファイル
+MRIcron/
+*.exe
+MicroDicom*/
+
+# その他
+__pycache__/
+*.pyc
+.claude/
+README.md.baks

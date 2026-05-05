@@ -1,0 +1,10 @@
+Fold 0 case-wise Dice (nerve root only)
+case030.nii: 0.7571
+case025.nii: 0.3154
+case032.nii: 0.5570
+case006.nii: 0.5406
+case005.nii: 0.5164
+case027.nii: 0.7507
+case040.nii: 0.3649
+case008.nii: 0.7240
+Fold 0 mean Dice: 0.5658

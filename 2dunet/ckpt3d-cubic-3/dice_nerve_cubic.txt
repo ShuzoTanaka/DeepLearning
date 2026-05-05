@@ -1,0 +1,10 @@
+=== Case-wise Dice (nerve root only, cubic) ===
+case003.nii: 0.7456
+case006.nii: 0.6441
+case010.nii: 0.0038
+case011.nii: 0.7171
+case036.nii: 0.5808
+case037.nii: 0.5682
+case039.nii: 0.6969
+case040.nii: 0.3511
+Mean Dice (nerve root, cubic): 0.5385

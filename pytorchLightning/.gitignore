@@ -1,0 +1,7 @@
+*.nii.gz
+*.nii
+data/
+.lightningenv
+nifti_predictions
+Niftis
+__pycache__/

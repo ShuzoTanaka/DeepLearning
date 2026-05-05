@@ -1,0 +1,4 @@
+nifti_predictions0206_2
+↑testデータちゃんと分けた時の結果フォルダ
+testデータ　3, 6, 8, 10, 11
+モデル　best-epoch=136-val_loss=0.15

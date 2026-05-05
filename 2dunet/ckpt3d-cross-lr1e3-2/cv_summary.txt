@@ -1,0 +1,7 @@
+K-fold Cross Validation Summary (nerve root Dice)
+Fold 0: Mean Dice = 0.5610
+Fold 1: Mean Dice = 0.7230
+Fold 2: Mean Dice = 0.5435
+Fold 3: Mean Dice = 0.7711
+Fold 4: Mean Dice = 0.7367
+Overall mean Dice across folds: 0.6671

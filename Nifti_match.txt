@@ -1,0 +1,13 @@
+case032 → 0007100648_S003a（score 0）
+
+case033 → 0010253999_S006a / _b（score 0）
+
+case034 → 0006041058_S003a（score 0）
+
+case035 → 0008893374_S004a（score 0）
+
+case036 → 0007871131_S003（score 0）
+
+case038 → 0010130038_S005a（score 0）
+
+case039 → 0010168569_S003a（score 0）

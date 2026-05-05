@@ -1,0 +1,1 @@
+"C:/Users/orilab/Desktop/Tanaka/pytorchLightning/checkpoints/best-epoch=99-val_loss=0.24.ckpt"  3Dぽい
